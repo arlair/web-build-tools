@@ -1,6 +1,13 @@
 # Change Log - @microsoft/api-extractor
 
-This log was last generated on Sat, 22 Apr 2017 01:02:03 GMT and should not be manually modified.
+This log was last generated on Tue, 09 May 2017 01:01:52 GMT and should not be manually modified.
+
+## 2.0.6
+Tue, 09 May 2017 01:01:52 GMT
+
+### Patches
+
+- Added support for Namespace with ApiNamespace
 
 ## 2.0.5
 Sat, 22 Apr 2017 01:02:03 GMT
